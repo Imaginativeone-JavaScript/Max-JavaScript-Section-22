@@ -1,6 +1,16 @@
 Section 22: Utilizing Browser Storage 0/9 | 47min
 - [ ] 425. Module Introduction 1min
+  - Storing (Some) Data Locally
 - [ ] 426. Browser Storage Options 7min
+  - Browser Communicates with the Server
+    - Browser
+      - localStorage, sessionStorage
+      - Cookies
+      - IndexedDB
+      - Store Temporary "convenience" data
+     - Server
+       - Server-side Database
+       - Store Essential and persistent data
 - [ ] 427. localStorage & sessionStorage 11min
 - [ ] 428. Getting Started with Cookies 6min
 - [ ] 429. Working with Cookies 8min
