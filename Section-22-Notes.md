@@ -8,7 +8,7 @@ Section 22: Utilizing Browser Storage 0/9 | 47min
       - Cookies
       - IndexedDB
       - Store Temporary "convenience" data
-      - Example: Current Shopping Cart
+      - Examples: Current Shopping Cart, Authentication session id
      - Server
        - Server-side Database
        - Store Essential and persistent data
